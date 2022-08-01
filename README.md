@@ -24,11 +24,11 @@ Hero Section: <br/>
 <br />
 <br />
 Solutions Main-Section:  <br/>
-<img src="https://imgur.com/a/VuxPKEc.png" height="80%" width="80%" alt="Solutions Main-Section"/>
+<img src="https://imgur.com/plhQECW.png" height="80%" width="80%" alt="Solutions Main-Section"/>
 <br />
 <br />
 Services Sub-section: <br/>
-<img src="https://imgur.com/a/3mKINip.png" height="80%" width="80%" alt="Services Sub-section"/>
+<img src="https://imgur.com/r3T5ZUC.png" height="80%" width="80%" alt="Services Sub-section"/>
 <br />
 <br />
 </p>
